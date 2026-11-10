@@ -1,0 +1,6 @@
+{
+  "name": "جامعہ صلاح الدین ایوبی — نظامِ انتظامِ مدرسہ",
+  "description": "جامعہ صلاح الدین ایوبی کے لیے ایک مکمل، معیاری اور پیشہ ورانہ مدرسہ مینجمنٹ سسٹم برائے شعبہ جات، طلباء، طالبات اور حفظ و ناظرہ۔",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
